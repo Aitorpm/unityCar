@@ -1,0 +1,54 @@
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/UnityEngine.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/UnityEditor.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/bernatmir/New Unity Project 1/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/bernatmir/New Unity Project 1/obj/Debug/Assembly-CSharp.dll
+/Users/bernatmir/New Unity Project 1/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/aitor/Desktop/New Unity Project 1/obj/Debug/Assembly-CSharp.dll
+/Users/aitor/Desktop/New Unity Project 1/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/UnityEngine.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/UnityEditor.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/aitor/Desktop/New Unity Project 1/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/aitor/Desktop/unityAuto/obj/Debug/Assembly-CSharp.dll
+/Users/aitor/Desktop/unityAuto/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/UnityEngine.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/UnityEditor.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Mono.Cecil.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Unity.DataContract.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/aitor/Desktop/unityAuto/Temp/bin/Debug/Mono.Cecil.Mdb.dll
